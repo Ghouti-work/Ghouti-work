@@ -6,4 +6,4 @@
 - 📫 How to reach me: ghouti.yelles@engineer.com
 - 😄 Pronouns: 0xor1Day
 - ⚡ Fun fact: i hate pythone but still work with it  
-
+[0xor1Day](https://0xor1day.me/)
