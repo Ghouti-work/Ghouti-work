@@ -8,4 +8,4 @@
 - ⚡ Fun fact: i hate pythone but still work with it  
 
 #### my page
-[0xor1Day](https://0xor1day.me/)
+  - [0xor1Day](https://0xor1day.me/)
